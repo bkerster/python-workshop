@@ -7,6 +7,7 @@ This workshop covers the basics necessary for a scientist to run analyses in Pyt
 Introduces topics along with examples, and includes numerous breakout exercises to reinforce the material.
 
 ##Topics Covered
+
 *Python Basics
   *Data structures
   *Control flow
